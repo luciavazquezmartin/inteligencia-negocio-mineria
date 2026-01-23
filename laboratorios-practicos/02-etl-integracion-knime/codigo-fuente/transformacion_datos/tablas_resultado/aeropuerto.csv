@@ -1,0 +1,333 @@
+"codigo_IATA","nombre_aeropuerto","pais","estado","codigo_estado","ciudad","latitud","longitud","id_aeropuerto","zona_horaria","num_habitantes"
+"BHM","Birmingham Airport","United States","Alabama","AL","Birmingham, AL",3356305556,-8675555556,29,"GMT-6",196357
+"HSV","Huntsville International-Carl T Jones Field","United States","Alabama","AL","Huntsville, AL",3464277778,-8677555556,144,"GMT-6",215006
+"MOB","Mobile Regional","United States","Alabama","AL","Mobile, AL",3068833333,-8824083333,211,"GMT-6",183289
+"MGM","Dannelly Field","United States","Alabama","AL","Montgomery, AL",3230000000,-8639111111,202,"GMT-6",195287
+"XNA","Northwest Arkansas Regional","United States","Arkansas","AR","Fayetteville, AR",3628194444,-9430694444,328,"GMT-7",82830
+"FSM","Fort Smith Regional","United States","Arkansas","AR","Fort Smith, AR",3533666667,-9436750000,115,"GMT-7",88194
+"LIT","Adams Field","United States","Arkansas","AR","Little Rock, AR",3472916667,-9223444444,186,"GMT-7",202591
+"TXK","Texarkana Muni/Webb Field","United States","Arkansas","AR","Texarkana, AR",3345638889,-9398916667,322,"GMT-7",30353
+"DAB","Daytona Beach Regional","United States","Florida","FL","Daytona Beach, FL",2918250000,-8105277778,78,"GMT-6",72647
+"RSW","Southwest Florida International","United States","Florida","FL","Fort Myers, FL",2653611111,-8175500000,271,"GMT-6",74013
+"GNV","Gainesville Regional","United States","Florida","FL","Gainesville, FL",2968972222,-8227583333,123,"GMT-6",145214
+"JAX","Jacksonville International","United States","Florida","FL","Jacksonville, FL",3048472222,-8168777778,161,"GMT-6",1009833
+"EYW","Key West International","United States","Florida","FL","Key West, FL",2455555556,-8175972222,104,"GMT-6",25755
+"MLB","Melbourne Regional","United States","Florida","FL","Melbourne, FL",2810250000,-8064305556,208,"GMT-6",84678
+"MCO","Orlando International","United States","Florida","FL","Orlando, FL",2843166667,-8132472222,194,"GMT-6",334854
+"ECP","Northwest Florida Beaches International","United States","Florida","FL","Panama City, FL",3035777778,-8579888889,94,"GMT-6",38286
+"PNS","Pensacola Regional","United States","Florida","FL","Pensacola, FL",3047333333,-8718750000,246,"GMT-6",53724
+"PGD","Charlotte County","United States","Florida","FL","Punta Gorda, FL",2691916667,-8199138889,237,"GMT-6",18150
+"SFB","Sanford NAS","United States","Florida","FL","Sanford, FL",2877500000,-8124027778,284,"GMT-6",58111
+"TLH","Tallahassee Regional","United States","Florida","FL","Tallahassee, FL",3039972222,-8435194444,313,"GMT-6",201731
+"VPS","Northwest Florida Regional","United States","Florida","FL","Valparaiso, FL",3048333333,-8652527778,326,"GMT-6",5023
+"ABY","Southwest Georgia Regional","United States","Georgia","GA","Albany, GA",3153222222,-8419611111,4,"GMT-6",74843
+"AGS","Bush Field","United States","Georgia","GA","Augusta, GA",3336916667,-8196444444,11,"GMT-6",43459
+"SAV","Savannah/Hilton Head International","United States","Georgia","GA","Savannah, GA",3212750000,-8120250000,275,"GMT-6",147780
+"BLV","Scott AFB","United States","Illinois","IL","Belleville, IL",3854277778,-8985111111,35,"GMT-6",42034
+"DEC","Decatur Airport","United States","Illinois","IL","Decatur, IL",3983416667,-8886861111,83,"GMT-6",73254
+"SPI","Capital","United States","Illinois","IL","Springfield, IL",3984416667,-8967888889,299,"GMT-6",114394
+"EVV","Evansville Dress Regional","United States","Indiana","IN","Evansville, IN",3803666667,-8753250000,101,"GMT-6",119943
+"IND","Indianapolis Muni/Weir Cook","United States","Indiana","IN","Indianapolis, IN",3972888889,-8628166667,154,"GMT-6",887642
+"HYS","Hays Municipal","United States","Kansas","KS","Hays, KS",3884611111,-9927416667,146,"GMT-7",21092
+"SLN","Salina Municipal","United States","Kansas","KS","Salina, KS",3879083333,-9765250000,295,"GMT-7",47813
+"ICT","Wichita Mid-Continent","United States","Kansas","KS","Wichita, KS",3765000000,-9743277778,150,"GMT-7",396119
+"LEX","Blue Grass","United States","Kentucky","KY","Lexington, KY",3803972222,-8460222222,181,"GMT-6",320347
+"SDF","Standiford Field","United States","Kentucky","KY","Louisville, KY",3817972222,-8573861111,282,"GMT-6",624444
+"AEX","England AFB","United States","Louisiana","LA","Alexandria, LA",3132416667,-9254694444,10,"GMT-7",47889
+"BTR","Baton Rouge Metropolitan/Ryan Field","United States","Louisiana","LA","Baton Rouge, LA",3053166667,-9115055556,46,"GMT-7",227470
+"LFT","Lafayette Regional","United States","Louisiana","LA","Lafayette, LA",3020472222,-9198750000,182,"GMT-7",121374
+"LCH","Lake Charles Regional","United States","Louisiana","LA","Lake Charles, LA",3013111111,-9322555556,179,"GMT-7",76070
+"MLU","Monroe Regional","United States","Louisiana","LA","Monroe, LA",3251111111,-9203888889,210,"GMT-7",49598
+"MSY","Louis Armstrong New Orleans International","United States","Louisiana","LA","New Orleans, LA",2999111111,-9025138889,218,"GMT-7",362701
+"SHV","Shreveport Regional","United States","Louisiana","LA","Shreveport, LA",3244694444,-9382555556,289,"GMT-7",187593
+"HGR","Hagerstown Regional-Richard A. Henson Field","United States","Maryland","MD","Hagerstown, MD",3970777778,-7773000000,135,"GMT-6",40432
+"JLN","Joplin Municipal","United States","Missouri","MO","Joplin, MO",3714972222,-9449777778,163,"GMT-7",51818
+"MCI","Kansas City International","United States","Missouri","MO","Kansas City, MO",3929750000,-9471388889,193,"GMT-7",475378
+"STL","Lambert-St. Louis International","United States","Missouri","MO","St. Louis, MO",3874722222,-9036444444,304,"GMT-7",279695
+"SGF","Springfield-Branson National","United States","Missouri","MO","Springfield, MO",3724000000,-9338500000,286,"GMT-7",170188
+"MEI","Key Field","United States","Mississippi","MS","Meridian, MS",3233722222,-8874916667,198,"GMT-6",39661
+"AVL","Asheville Regional","United States","North Carolina","NC","Asheville, NC",3543500000,-8254111111,20,"GMT-6",95056
+"CLT","Douglas Municipal","United States","North Carolina","NC","Charlotte, NC",3521916667,-8093583333,65,"GMT-6",911311
+"FAY","Fayetteville Regional/Grannis Field","United States","North Carolina","NC","Fayetteville, NC",3499138889,-7888027778,108,"GMT-6",201963
+"ILM","Wilmington International","United States","North Carolina","NC","Wilmington, NC",3426694444,-7790388889,152,"GMT-6",115933
+"ACY","Nafec Atlantic City","United States","New Jersey","NJ","Atlantic City, NJ",3945611111,-7457805556,7,"GMT-5",39260
+"CVG","Cincinnati/Northern Kentucky International","United States","Kentucky","KY","Cincinnati, OH",3904777778,-8466861111,75,"GMT-6",311097
+"CMH","Port Columbus International","United States","Ohio","OH","Columbus, OH",3999111111,-8287833333,66,"GMT-6",913175
+"LCK","Lockbourne AFB","United States","Ohio","OH","Columbus, OH",3981416667,-8293222222,180,"GMT-6",913175
+"DAY","James M Cox/Dayton International","United States","Ohio","OH","Dayton, OH",3990111111,-8422000000,80,"GMT-6",135512
+"OKC","Will Rogers World","United States","Oklahoma","OK","Oklahoma City, OK",3539222222,-9760166667,224,"GMT-7",681054
+"SWO","Searcy Field","United States","Oklahoma","OK","Stillwater, OK",3615888889,-9708555556,311,"GMT-7",48967
+"TUL","Tulsa International","United States","Oklahoma","OK","Tulsa, OK",3619777778,-9588972222,318,"GMT-7",413066
+"PHL","Philadelphia International","United States","Pennsylvania","PA","Philadelphia, PA",3986805556,-7524861111,238,"GMT-6",1573916
+"CHS","Charleston International","United States","South Carolina","SC","Charleston, SC",3289916667,-8003888889,58,"GMT-6",132609
+"CAE","Columbia Metropolitan","United States","South Carolina","SC","Columbia, SC",3393638889,-8111583333,52,"GMT-6",142416
+"HHH","Hilton Head Airport","United States","South Carolina","SC","Hilton Head, SC",3221666667,-8068333333,136,"GMT-6",37099
+"MYR","Myrtle Beach International","United States","South Carolina","SC","Myrtle Beach, SC",3367916667,-7892972222,220,"GMT-6",31035
+"CHA","Lovell Field","United States","Tennessee","TN","Chattanooga, TN",3503638889,-8520361111,56,"GMT-6",181099
+"TYS","McGhee Tyson","United States","Tennessee","TN","Knoxville, TN",3581222222,-8399250000,324,"GMT-6",190740
+"MEM","Memphis International","United States","Tennessee","TN","Memphis, TN",3504972222,-8997861111,199,"GMT-6",633104
+"BNA","Nashville International","United States","Tennessee","TN","Nashville, TN",3612666667,-8668194444,37,"GMT-6",689447
+"ABI","Abilene Regional","United States","Texas","TX","Abilene, TX",3240944444,-9967972222,1,"GMT-7",125182
+"AUS","Austin - Bergstrom International","United States","Texas","TX","Austin, TX",3019444444,-9767000000,19,"GMT-7",974447
+"BRO","Brownsville South Padre Island International","United States","Texas","TX","Brownsville, TX",2590638889,-9742555556,43,"GMT-7",186738
+"CRP","Corpus Christi International","United States","Texas","TX","Corpus Christi, TX",2777000000,-9750083333,73,"GMT-7",316239
+"HOU","William P Hobby","United States","Texas","TX","Houston, TX",2964500000,-9527861111,141,"GMT-7",2314157
+"IAH","Houston Intercontinental","United States","Texas","TX","Houston, TX",2998333333,-9534000000,149,"GMT-7",2314157
+"GRK","Robert Gray AAF","United States","Texas","TX","Killeen, TX",3106472222,-9782750000,127,"GMT-7",140806
+"LRD","Laredo AFB","United States","Texas","TX","Laredo, TX",2754472222,-9946111111,188,"GMT-7",256153
+"GGG","East Texas Regional","United States","Texas","TX","Longview, TX",3238666667,-9471527778,121,"GMT-7",82287
+"SAT","San Antonio International","United States","Texas","TX","San Antonio, TX",2953333333,-9846944444,274,"GMT-7",1526656
+"TYR","Tyler Pounds Regional","United States","Texas","TX","Tyler, TX",3235472222,-9539888889,323,"GMT-7",103700
+"VCT","Victoria County Foster","United States","Texas","TX","Victoria, TX",2885111111,-9691444444,325,"GMT-7",67574
+"ACT","Waco Regional","United States","Texas","TX","Waco, TX",3161138889,-9722861111,5,"GMT-7",132356
+"SPS","Sheppard AFB/Wichita Falls Municipal","United States","Texas","TX","Wichita Falls, TX",3398833333,-9849194444,301,"GMT-7",104710
+"CHO","Charlottesville Albemarle","United States","Virginia","VA","Charlottesville, VA",3814138889,-7845305556,57,"GMT-6",46597
+"RIC","Richmond International","United States","Virginia","VA","Richmond, VA",3750527778,-7731972222,264,"GMT-6",226610
+"ROA","Roanoke Regional/Woodrum Field","United States","Virginia","VA","Roanoke, VA",3732472222,-7997638889,268,"GMT-6",100011
+"MGW","Morgantown Municipal-Walter L. Bill Hart Field","United States","West Virginia","WV","Morgantown, WV",3964277778,-7991583333,203,"GMT-6",30708
+"BDL","Bradley International","United States","Connecticut","CT","Hartford, CT",4193861111,-7268333333,24,"GMT-5",121054
+"DSM","Des Moines Municipal","United States","Iowa","IA","Des Moines, IA",4153388889,-9365666667,89,"GMT-7",214133
+"FOD","Fort Dodge Regional","United States","Iowa","IA","Fort Dodge, IA",4255250000,-9418972222,113,"GMT-7",24649
+"MCW","Mason City Municipal","United States","Iowa","IA","Mason City, IA",4315694444,-9332944444,195,"GMT-7",27366
+"SUX","Sioux City Gateway","United States","Iowa","IA","Sioux City, IA",4240194444,-9638416667,309,"GMT-7",82821
+"MDW","Chicago Midway International","United States","Illinois","IL","Chicago, IL",4178500000,-8775194444,197,"GMT-6",2664452
+"ORD","Chicago O'Hare International","United States","Illinois","IL","Chicago, IL",4197805556,-8790611111,228,"GMT-6",2664452
+"PIA","Greater Peoria","United States","Illinois","IL","Peoria, IL",4066138889,-8968722222,240,"GMT-6",115070
+"RFD","Chicago/Rockford International","United States","Illinois","IL","Rockford, IL",4219722222,-8909250000,262,"GMT-6",148278
+"FWA","Fort Wayne Municipal","United States","Indiana","IN","Fort Wayne, IN",4097833333,-8518805556,116,"GMT-6",260326
+"SBN","Michiana Regional","United States","Indiana","IN","South Bend, IN",4170444444,-8631250000,277,"GMT-6",101516
+"ORH","Worcester Regional","United States","Massachusetts","MA","Worcester, MA",4226916667,-7187444444,230,"GMT-5",206518
+"BGR","Bangor International","United States","Maine","ME","Bangor, ME",4480777778,-6882777778,28,"GMT-5",32391
+"PWM","Portland International Jetport","United States","Maine","ME","Portland, ME",4364444444,-7030361111,257,"GMT-5",66881
+"APN","Phelps/Collins","United States","Michigan","MI","Alpena, MI",4508166667,-8355583333,15,"GMT-6",10175
+"DTW","Detroit Metro Wayne County","United States","Michigan","MI","Detroit, MI",4221666667,-8334444444,90,"GMT-6",645705
+"ESC","Delta County","United States","Michigan","MI","Escanaba, MI",4572055556,-8708666667,99,"GMT-6",12334
+"FNT","Bishop International","United States","Michigan","MI","Flint, MI",4296666667,-8374166667,112,"GMT-6",98310
+"GRR","Kent County","United States","Michigan","MI","Grand Rapids, MI",4288111111,-8552416667,128,"GMT-6",195097
+"AZO","Kalamazoo/Battle Creek International","United States","Michigan","MI","Kalamazoo, MI",4223638889,-8555361111,23,"GMT-6",76041
+"LAN","Capital City","United States","Michigan","MI","Lansing, MI",4277916667,-8458833333,170,"GMT-6",112644
+"MQT","Marquette County","United States","Michigan","MI","Marquette, MI",4635361111,-8739527778,213,"GMT-6",21297
+"PLN","Pellston Regional Airport of Emmet County","United States","Michigan","MI","Pellston, MI",4557083333,-8479277778,245,"GMT-6",829
+"CIU","Kincheloe AFB","United States","Michigan","MI","Sault Ste. Marie, MI",4624222222,-8446611111,60,"GMT-6",13827
+"TVC","Cherry Capital","United States","Michigan","MI","Traverse City, MI",4474000000,-8558583333,320,"GMT-6",15218
+"BJI","Bemidji Municipal","United States","Minnesota","MN","Bemidji, MN",4750972222,-9493472222,33,"GMT-7",14594
+"BRD","Brainerd/Crow Wing County","United States","Minnesota","MN","Brainerd, MN",4639722222,-9413750000,42,"GMT-7",13371
+"DLH","Duluth International","United States","Minnesota","MN","Duluth, MN",4684250000,-9219027778,87,"GMT-7",86110
+"HIB","Chisholm/Hibbing","United States","Minnesota","MN","Hibbing, MN",4738861111,-9283861111,137,"GMT-7",16204
+"INL","Falls International","United States","Minnesota","MN","International Falls, MN",4856305556,-9340416667,155,"GMT-7",6158
+"DVL","Devils Lake Regional","United States","North Dakota","ND","Devils Lake, ND",4811305556,-9890750000,91,"GMT-7",7351
+"FAR","Hector Field","United States","North Dakota","ND","Fargo, ND",4691555556,-9681472222,106,"GMT-7",118523
+"GFK","Grand Forks International","United States","North Dakota","ND","Grand Forks, ND",4795194444,-9717861111,120,"GMT-7",57011
+"JMS","Jamestown Regional","United States","North Dakota","ND","Jamestown, ND",4693000000,-9867833333,164,"GMT-7",15422
+"GRI","Grand Island Air Park","United States","Nebraska","NE","Grand Island, NE",4096722222,-9830666667,126,"GMT-7",51440
+"EAR","Kearney Regional","United States","Nebraska","NE","Kearney, NE",4072833333,-9899888889,92,"GMT-7",33021
+"LNK","Lincoln Airport","United States","Nebraska","NE","Lincoln, NE",4085083333,-9675888889,187,"GMT-7",294757
+"OMA","Eppley Airfield","United States","Nebraska","NE","Omaha, NE",4130194444,-9589333333,225,"GMT-7",486051
+"PSM","Portsmouth Pease International","United States","New Hampshire","NH","Portsmouth, NH",4307777778,-7082333333,253,"GMT-5",21530
+"TTN","Mercer County","United States","New Jersey","NJ","Trenton, NJ",4027805556,-7481250000,317,"GMT-5",89620
+"ALB","Albany International","United States","New York","NY","Albany, NY",4274583333,-7380527778,12,"GMT-5",101228
+"BUF","Greater Buffalo International","United States","New York","NY","Buffalo, NY",4294111111,-7873638889,48,"GMT-6",258071
+"IAG","Niagara Falls International","United States","New York","NY","Niagara Falls, NY",4310722222,-7894555556,148,"GMT-6",48916
+"PBG","Plattsburgh International","United States","New York","NY","Plattsburgh, NY",4465083333,-7346805556,234,"GMT-5",19806
+"ROC","Rochester Monroe County","United States","New York","NY","Rochester, NY",4312138889,-7767083333,269,"GMT-6",209802
+"SYR","Syracuse Hancock International","United States","New York","NY","Syracuse, NY",4311055556,-7610250000,312,"GMT-6",144142
+"TOL","Toledo Express","United States","Ohio","OH","Toledo, OH",4159083333,-8380083333,314,"GMT-6",265638
+"MDT","Harrisburg International","United States","Pennsylvania","PA","Harrisburg, PA",4019305556,-7676222222,196,"GMT-6",50183
+"JST","Johnstown Cambria County","United States","Pennsylvania","PA","Johnstown, PA",4031666667,-7883444444,167,"GMT-6",19966
+"LBE","Latrobe Airport","United States","Pennsylvania","PA","Latrobe, PA",4027638889,-7940277778,176,"GMT-6",8081
+"PIT","Pittsburgh International","United States","Pennsylvania","PA","Pittsburgh, PA",4049666667,-8023583333,244,"GMT-6",304391
+"ABR","Aberdeen Regional","United States","South Dakota","SD","Aberdeen, SD",4544972222,-9842166667,3,"GMT-7",28102
+"FSD","Joe Foss Field","United States","South Dakota","SD","Sioux Falls, SD",4357888889,-9674083333,114,"GMT-7",171544
+"BTV","Burlington International","United States","Vermont","VT","Burlington, VT",4447277778,-7315305556,47,"GMT-5",42452
+"ATW","Outagamie County Regional","United States","Wisconsin","WI","Appleton, WI",4425777778,-8852000000,18,"GMT-6",74139
+"EAU","Eau Claire Municipal","United States","Wisconsin","WI","Eau Claire, WI",4486444444,-9148722222,93,"GMT-7",67778
+"GRB","Austin Straubel International","United States","Wisconsin","WI","Green Bay, WI",4448805556,-8813055556,125,"GMT-6",105207
+"LSE","La Crosse Municipal","United States","Wisconsin","WI","La Crosse, WI",4387722222,-9125638889,189,"GMT-7",52306
+"MSN","Truax Field","United States","Wisconsin","WI","Madison, WI",4314194444,-8933694444,215,"GMT-6",280305
+"MKE","General Mitchell Field","United States","Wisconsin","WI","Milwaukee, WI",4295027778,-8789722222,207,"GMT-6",563531
+"RHI","Rhinelander/Oneida County","United States","Wisconsin","WI","Rhinelander, WI",4563138889,-8945750000,263,"GMT-6",7526
+"FLG","Flagstaff Pulliam","United States","Arizona","AZ","Flagstaff, AZ",3513777778,-11167166667,110,"GMT-8",70320
+"AZA","Williams Gateway","United States","Arizona","AZ","Phoenix, AZ",3330777778,-11165555556,22,"GMT-8",1650070
+"PHX","Phoenix Sky Harbor International","United States","Arizona","AZ","Phoenix, AZ",3343611111,-11200944444,239,"GMT-8",1650070
+"PRC","Prescott Municipal","United States","Arizona","AZ","Prescott, AZ",3465000000,-11242416667,249,"GMT-8",41899
+"TUS","Tucson International","United States","Arizona","AZ","Tucson, AZ",3211611111,-11094055556,319,"GMT-8",542629
+"YUM","Yuma MCAS/Yuma International","United States","Arizona","AZ","Yuma, AZ",3265666667,-11460583333,330,"GMT-8",95548
+"BFL","Meadows Field","United States","California","CA","Bakersfield, CA",3543000000,-11905222222,27,"GMT-8",373640
+"BIH","Eastern Sierra Regional","United States","California","CA","Bishop, CA",3737333333,-11836500000,30,"GMT-8",3806
+"CLD","Palomar","United States","California","CA","Carlsbad, CA",3312861111,-11727972222,62,"GMT-8",114746
+"FAT","Fresno Air Terminal","United States","California","CA","Fresno, CA",3677666667,-11971722222,107,"GMT-8",542107
+"PSP","Palm Springs International","United States","California","CA","Palm Springs, CA",3382666667,-11650500000,254,"GMT-8",47371
+"SMF","Sacramento International","United States","California","CA","Sacramento, CA",3869555556,-12158972222,296,"GMT-9",524943
+"SAN","San Diego International Lindbergh Fl","United States","California","CA","San Diego, CA",3273277778,-11718722222,273,"GMT-8",1404452
+"SBA","Santa Barbara Municipal","United States","California","CA","Santa Barbara, CA",3442777778,-11983944444,276,"GMT-8",91842
+"SMX","Santa Maria Public/Capt. G. Allan Hancock Field","United States","California","CA","Santa Maria, CA",3490500000,-12045777778,297,"GMT-9",105093
+"STS","Charles M. Schulz - Sonoma County","United States","California","CA","Santa Rosa, CA",3850916667,-12281166667,305,"GMT-9",178127
+"SCK","Stockton Metropolitan","United States","California","CA","Stockton, CA",3789444444,-12123916667,281,"GMT-9",305658
+"ASE","Aspen Pitkin County Sardy Field","United States","Colorado","CO","Aspen, CO",3922416667,-10686888889,16,"GMT-8",6882
+"COS","Peterson Field","United States","Colorado","CO","Colorado Springs, CO",3880888889,-10470916667,70,"GMT-7",456568
+"DEN","Stapleton International","United States","Colorado","CO","Denver, CO",3977444444,-10487972222,84,"GMT-7",729019
+"DRO","La Plata County","United States","Colorado","CO","Durango, CO",3715000000,-10775111111,88,"GMT-8",18006
+"EGE","Eagle County Regional","United States","Colorado","CO","Eagle, CO",3964361111,-10691388889,95,"GMT-8",6678
+"GJT","Walker Field","United States","Colorado","CO","Grand Junction, CO",3911861111,-10851388889,122,"GMT-8",60358
+"GUC","Gunnison-Crested Butte Regional","United States","Colorado","CO","Gunnison, CO",3853388889,-10693888889,132,"GMT-8",6076
+"DDC","Dodge City Regional","United States","Kansas","KS","Dodge City, KS",3776166667,-9996500000,82,"GMT-7",27912
+"GCK","Garden City Municipal","United States","Kansas","KS","Garden City, KS",3792861111,-10072972222,118,"GMT-7",27005
+"LBL","Liberal Municipal","United States","Kansas","KS","Liberal, KS",3704444444,-10096055556,178,"GMT-7",20746
+"ABQ","Albuquerque International Sunport","United States","New Mexico","NM","Albuquerque, NM",3504166667,-10660638889,2,"GMT-8",564559
+"HOB","Lea County Hobbs","United States","New Mexico","NM","Hobbs, NM",3268861111,-10321694444,140,"GMT-7",38416
+"ROW","Roswell International Air Center","United States","New Mexico","NM","Roswell, NM",3330166667,-10453055556,270,"GMT-7",48544
+"SAF","Santa Fe Municipal","United States","New Mexico","NM","Santa Fe, NM",3561750000,-10608833333,272,"GMT-8",87505
+"LAS","McCarran International","United States","Nevada","NV","Las Vegas, NV",3608000000,-11515222222,172,"GMT-8",641903
+"RNO","Reno/Tahoe International","United States","Nevada","NV","Reno, NV",3949777778,-11976750000,267,"GMT-8",264165
+"AMA","Amarillo International","United States","Texas","TX","Amarillo, TX",3522722222,-10172194444,13,"GMT-7",198645
+"ELP","El Paso International","United States","Texas","TX","El Paso, TX",3180666667,-10637722222,98,"GMT-8",678815
+"LBB","Lubbock Regional","United States","Texas","TX","Lubbock, TX",3366222222,-10182277778,175,"GMT-7",249042
+"SJT","San Angelo Regional/Mathis Field","United States","Texas","TX","San Angelo, TX",3135972222,-10049444444,292,"GMT-7",99893
+"CDC","Cedar City Regional","United States","Utah","UT","Cedar City, UT",3770250000,-11309611111,54,"GMT-8",30184
+"JNU","Juneau International","United States","Alaska","AK","Juneau, AK",5835555556,-13457472222,165,"GMT-10",31555
+"KTN","Ketchikan International","United States","Alaska","AK","Ketchikan, AK",5535833333,-13171666667,169,"GMT-10",8197
+"PSG","Petersburg James A Johnson","United States","Alaska","AK","Petersburg, AK",5680416667,-13294250000,252,"GMT-10",2948
+"SIT","Sitka Rocky Gutierrez","United States","Alaska","AK","Sitka, AK",5704861111,-13536166667,290,"GMT-10",8863
+"WRG","Wrangell Airport","United States","Alaska","AK","Wrangell, AK",5648444444,-13236666667,327,"GMT-10",2382
+"YAK","Yakutat Airport","United States","Alaska","AK","Yakutat, AK",5950916667,-13965972222,329,"GMT-10",662
+"RDD","Redding Municipal","United States","California","CA","Redding, CA",4050833333,-12229222222,259,"GMT-9",91582
+"HDN","Yampa Valley","United States","Colorado","CO","Steamboat Springs, CO",4048166667,-10722000000,134,"GMT-8",12435
+"BOI","Boise Air Terminal","United States","Idaho","ID","Boise, ID",4356527778,-11622500000,38,"GMT-8",235684
+"IDA","Fanning Field","United States","Idaho","ID","Idaho Falls, ID",4351611111,-11206472222,151,"GMT-8",59184
+"LWS","Lewiston Nez Perce County","United States","Idaho","ID","Lewiston, ID",4637472222,-11701444444,190,"GMT-8",32544
+"PIH","Pocatello Regional","United States","Idaho","ID","Pocatello, ID",4291333333,-11259444444,243,"GMT-8",54441
+"TWF","Joslin Field - Magic Valley Regional","United States","Idaho","ID","Twin Falls, ID",4248194444,-11448666667,321,"GMT-8",47468
+"BIL","Billings Logan International","United States","Montana","MT","Billings, MT",4580694444,-10854277778,31,"GMT-8",117116
+"BZN","Gallatin Field","United States","Montana","MT","Bozeman, MT",4578027778,-11115944444,51,"GMT-8",43405
+"BTM","Bert Mooney","United States","Montana","MT","Butte, MT",4595111111,-11249388889,45,"GMT-8",34190
+"GTF","Great Falls International","United States","Montana","MT","Great Falls, MT",4748555556,-11136694444,131,"GMT-8",59638
+"HLN","Helena Regional","United States","Montana","MT","Helena, MT",4660666667,-11198194444,138,"GMT-8",32091
+"FCA","Glacier Park International","United States","Montana","MT","Kalispell, MT",4831277778,-11425111111,109,"GMT-8",22052
+"MSO","Missoula International","United States","Montana","MT","Missoula, MT",4691555556,-11408750000,216,"GMT-8",71022
+"DIK","Dickinson Municipal","United States","North Dakota","ND","Dickinson, ND",4679666667,-10279638889,86,"GMT-7",23765
+"MOT","Minot International","United States","North Dakota","ND","Minot, ND",4825944444,-10128083333,212,"GMT-7",49450
+"XWA","Williston Basin International","United States","North Dakota","ND","Williston, ND",4826083333,-10375111111,331,"GMT-7",26977
+"LBF","North Platte Regional Airport Lee Bird Field","United States","Nebraska","NE","North Platte, NE",4112833333,-10069666667,177,"GMT-7",24194
+"BFF","William B. Heilig Field","United States","Nebraska","NE","Scottsbluff, NE",4187527778,-10360111111,26,"GMT-7",14802
+"EKO","Elko Regional","United States","Nevada","NV","Elko, NV",4082388889,-11578972222,96,"GMT-8",20279
+"EUG","Mahlon Sweet Field","United States","Oregon","OR","Eugene, OR",4412083333,-12321750000,100,"GMT-9",176654
+"MFR","Medford Jackson County","United States","Oregon","OR","Medford, OR",4237361111,-12287222222,201,"GMT-9",79805
+"PDX","Portland International","United States","Oregon","OR","Portland, OR",4558916667,-12259500000,236,"GMT-9",652503
+"RAP","Rapid City Regional","United States","South Dakota","SD","Rapid City, SD",4404527778,-10305694444,258,"GMT-7",73569
+"PVU","Provo Municipal","United States","Utah","UT","Provo, UT",4021805556,-11172222222,256,"GMT-8",115162
+"SLC","Salt Lake City International","United States","Utah","UT","Salt Lake City, UT",4078416667,-11196694444,294,"GMT-8",215548
+"BLI","Bellingham International","United States","Washington","WA","Bellingham, WA",4879444444,-12253472222,34,"GMT-9",85146
+"PAE","Snohomish County Paine Field","United States","Washington","WA","Everett, WA",4790833333,-12228138889,233,"GMT-9",108010
+"SEA","Seattle International","United States","Washington","WA","Seattle, WA",4744722222,-12230555556,283,"GMT-9",780995
+"GEG","Spokane International","United States","Washington","WA","Spokane, WA",4762000000,-11753277778,119,"GMT-8",229447
+"CPR","Casper/Natrona County International","United States","Wyoming","WY","Casper, WY",4290861111,-10646250000,72,"GMT-8",60285
+"CYS","Cheyenne Regional/Jerry Olson Field","United States","Wyoming","WY","Cheyenne, WY",4115583333,-10481222222,77,"GMT-7",65132
+"COD","Yellowstone Regional","United States","Wyoming","WY","Cody, WY",4451583333,-10902750000,69,"GMT-8",9792
+"GCC","Gillette Campbell County","United States","Wyoming","WY","Gillette, WY",4435138889,-10552500000,117,"GMT-8",32649
+"JAC","Jackson Hole","United States","Wyoming","WY","Jackson, WY",4360666667,-11073694444,159,"GMT-8",10523
+"LAR","General Brees Field","United States","Wyoming","WY","Laramie, WY",4131361111,-10567305556,171,"GMT-8",32158
+"RKS","Rock Springs Sweetwater County","United States","Wyoming","WY","Rock Springs, WY",4159638889,-10906583333,266,"GMT-8",23962
+"SHR","Sheridan County","United States","Wyoming","WY","Sheridan, WY",4477416667,-10697722222,288,"GMT-8",17873
+"OGG","Kahului Airport","United States","Hawaii","HI","Kahului, HI",2090055556,-15643361111,223,"GMT-10",26337
+"LIH","Lihue Airport","United States","Hawaii","HI","Lihue, HI",2197916667,-15934583333,185,"GMT-10",6455
+"ITO","General Lyman Field","United States","Hawaii","HI","Hilo, HI",1972361111,-15505805556,158,"GMT-10",43263
+"HNL","Honolulu International","United States","Hawaii","HI","Honolulu, HI",2131861111,-15792250000,139,"GMT-10",350964
+"CDV","Cordova Mile 13","United States","Alaska","AK","Cordova, AK",6049305556,-14547000000,55,"GMT-10",2196
+"FAI","Fairbanks International","United States","Alaska","AK","Fairbanks, AK",6481444444,-14786277778,105,"GMT-10",32325
+"ADQ","Kodiak Airport","United States","Alaska","AK","Kodiak, AK",5775000000,-15249388889,9,"GMT-10",6253
+"OTZ","Ralph Wien Memorial","United States","Alaska","AK","Kotzebue, AK",6688805556,-16260583333,232,"GMT-10",3277
+"OME","Nome Airport","United States","Alaska","AK","Nome, AK",6451138889,-16544166667,226,"GMT-10",3806
+"ANC","Anchorage International","United States","Alaska","AK","Anchorage, AK",6116916667,-14998527778,14,"GMT-10",289600
+"BET","Bethel Airport","United States","Alaska","AK","Bethel, AK",6078444444,-16183138889,25,"GMT-10",6450
+"ABE","Lehigh Valley International","United States","Pennsylvania","PA","Allentown/Bethlehem/Easton, PA",4065472222,-7543833333,0,"GMT-6",
+"ACV","Arcata","United States","California","CA","Eureka/Arcata, CA",4097916667,-12410750000,6,"GMT-9",
+"ADK","Adak NS","United States","Alaska","AK","Adak Island, AK",5188277778,-17664472222,8,"GMT-10",
+"ATL","Atlanta Municipal","United States","Georgia","GA","Atlanta, GA (Metropolitan Area)",3364083333,-8442722222,17,"GMT-6",
+"AVP","Wilkes Barre Scranton International","United States","Pennsylvania","PA","Scranton/Wilkes-Barre, PA",4133916667,-7572583333,21,"GMT-6",
+"BIS","Bismarck Municipal","United States","North Dakota","ND","Bismarck/Mandan, ND",4677888889,-10075250000,32,"GMT-7",
+"BMI","Central Illinois Regional","United States","Illinois","IL","Bloomington/Normal, IL",4048194444,-8892750000,36,"GMT-6",
+"BOS","Logan International","United States","Massachusetts","MA","Boston, MA (Metropolitan Area)",4236361111,-7100611111,39,"GMT-5",
+"BPT","Jefferson County","United States","Texas","TX","Beaumont/Port Arthur, TX",2995083333,-9402000000,40,"GMT-7",
+"BQN","Ramey AFB","Puerto Rico",,,"Aguadilla, Puerto Rico",1849583333,-6713000000,41,"GMT-5",
+"BRW","Wiley Post/Will Rogers Memorial","United States","Alaska","AK","Barrow, AK",7128555556,-15676611111,44,"GMT-10",
+"BUR","Hollywood-Burbank Midpoint","United States","California","CA","Los Angeles, CA (Metropolitan Area)",3420000000,-11835777778,49,"GMT-8",
+"BWI","Friendship International","United States","Maryland","MD","Washington, DC (Metropolitan Area)",3917555556,-7667138889,50,"GMT-6",
+"CAK","Akron-Canton Regional","United States","Ohio","OH","Cleveland, OH (Metropolitan Area)",4091388889,-8144166667,53,"GMT-6",
+"CID","Cedar Rapids Municipal","United States","Iowa","IA","Cedar Rapids/Iowa City, IA",4188444444,-9170611111,59,"GMT-7",
+"CKB","Benedum","United States","West Virginia","WV","Clarksburg/Fairmont, WV",3929555556,-8022944444,61,"GMT-6",
+"CLE","Cleveland-Hopkins International","United States","Ohio","OH","Cleveland, OH (Metropolitan Area)",4141083333,-8184944444,63,"GMT-6",
+"CLL","Easterwood Field","United States","Texas","TX","College Station/Bryan, TX",3058944444,-9636444444,64,"GMT-7",
+"CMI","University of Illinois/Willard","United States","Illinois","IL","Champaign/Urbana, IL",4003972222,-8827972222,67,"GMT-6",
+"CMX","Houghton County Memorial","United States","Michigan","MI","Hancock/Houghton, MI",4716777778,-8848638889,68,"GMT-6",
+"COU","Columbia Regional","United States","Missouri","MO","Jefferson City/Columbia, MO",3881361111,-9221916667,71,"GMT-7",
+"CRW","Kanawha","United States","West Virginia","WV","Charleston/Dunbar, WV",3837277778,-8159305556,74,"GMT-6",
+"CWA","Central Wisconsin","United States","Wisconsin","WI","Wausau/Mosinee/Stevens Point, WI",4478222222,-8965916667,76,"GMT-6",
+"DAL","Dallas Love Field","United States","Texas","TX","Dallas/Fort Worth, TX",3284694444,-9685333333,79,"GMT-7",
+"DCA","Ronald Reagan Washington National","United States","Virginia","VA","Washington, DC (Metropolitan Area)",3885166667,-7703694444,81,"GMT-6",
+"DFW","Dallas Fort Worth Regional","United States","Texas","TX","Dallas/Fort Worth, TX",3289444444,-9702972222,85,"GMT-7",
+"ELM","Elmira/Corning Regional","United States","New York","NY","Elmira/Corning, NY",4216083333,-7689527778,97,"GMT-6",
+"EWN","Craven County Regional","United States","North Carolina","NC","New Bern/Morehead/Beaufort, NC",3507361111,-7704250000,102,"GMT-6",
+"EWR","Newark Liberty International","United States","New Jersey","NJ","New York City, NY (Metropolitan Area)",4069583333,-7417166667,103,"GMT-5",
+"FLL","Fort Lauderdale-Hollywood International","United States","Florida","FL","Miami, FL (Metropolitan Area)",2607416667,-8015166667,111,"GMT-6",
+"GPT","Gulfport-Biloxi International","United States","Mississippi","MS","Gulfport/Biloxi, MS",3040611111,-8907027778,124,"GMT-6",
+"GSO","Piedmont Triad International","United States","North Carolina","NC","Greensboro/High Point, NC",3609194444,-7994277778,129,"GMT-6",
+"GSP","Greenville-Spartanburg","United States","South Carolina","SC","Greenville/Spartanburg, SC",3489888889,-8221388889,130,"GMT-6",
+"GUM","Agana Field","Guam",,,"Guam, Guam",1348388889,14479722222,133,"GMT-5",
+"HPN","Westchester County","United States","New York","NY","New York City, NY (Metropolitan Area)",4106888889,-7370777778,142,"GMT-5",
+"HRL","Valley International","United States","Texas","TX","Harlingen/San Benito, TX",2622805556,-9765222222,143,"GMT-7",
+"HTS","Tri-State/Milton J. Ferguson Field","United States","West Virginia","WV","Ashland, WV",3836694444,-8255611111,145,"GMT-6",
+"IAD","Washington Dulles International","United States","Virginia","VA","Washington, DC (Metropolitan Area)",3894166667,-7745750000,147,"GMT-6",
+"IMT","Ford","United States","Michigan","MI","Iron Mountain/Kingsfd, MI",4581555556,-8811416667,153,"GMT-6",
+"ISP","Long Island MacArthur","United States","New York","NY","New York City, NY (Metropolitan Area)",4079666667,-7310083333,156,"GMT-5",
+"ITH","Ithaca Tompkins Regional","United States","New York","NY","Ithaca/Cortland, NY",4249027778,-7645805556,157,"GMT-6",
+"JAN","Allen C Thompson Field","United States","Mississippi","MS","Jackson/Vicksburg, MS",3230972222,-9007583333,160,"GMT-7",
+"JFK","John F. Kennedy International","United States","New York","NY","New York City, NY (Metropolitan Area)",4063861111,-7377694444,162,"GMT-5",
+"USA","Concord Regional","United States","North Carolina","NC","Cabarrus, NC",3538527778,-8070972222,166,"GMT-6",
+"KOA","Keahole","United States","Hawaii","HI","Kona, HI",1973888889,-15604555556,168,"GMT-10",
+"LAW","Lawton-Fort Sill Regional","United States","Oklahoma","OK","Lawton/Fort Sill, OK",3456972222,-9841611111,173,"GMT-7",
+"LAX","Los Angeles International","United States","California","CA","Los Angeles, CA (Metropolitan Area)",3394250000,-11840805556,174,"GMT-8",
+"LGA","LaGuardia","United States","New York","NY","New York City, NY (Metropolitan Area)",4077944444,-7387583333,183,"GMT-5",
+"LGB","Long Beach Daugherty Field","United States","California","CA","Los Angeles, CA (Metropolitan Area)",3381750000,-11815111111,184,"GMT-8",
+"MAF","Midland Regional Air Trml","United States","Texas","TX","Midland/Odessa, TX",3194083333,-10220138889,191,"GMT-7",
+"MBS","Tri City","United States","Michigan","MI","Saginaw/Bay City/Midland, MI",4353166667,-8408166667,192,"GMT-6",
+"MFE","McAllen Miller International","United States","Texas","TX","Mission/McAllen/Edinburg, TX",2617694444,-9823972222,200,"GMT-7",
+"MHK","Manhattan Regional","United States","Kansas","KS","Manhattan/Ft. Riley, KS",3914222222,-9666888889,204,"GMT-7",
+"MHT","Grenier Field/Manchester Municipal","United States","New Hampshire","NH","Boston, MA (Metropolitan Area)",4293833333,-7143888889,205,"GMT-5",
+"MIA","Miami International","United States","Florida","FL","Miami, FL (Metropolitan Area)",2579250000,-8028611111,206,"GMT-6",
+"MLI","Quad City International","United States","Illinois","IL","Quad Cities, IL (Metropolitan Area)",4144888889,-9050500000,209,"GMT-7",
+"MRY","Monterey Peninsula","United States","California","CA","Salinas/Monterey, CA",3658805556,-12184805556,214,"GMT-9",
+"MSP","Minneapolis-St Paul International","United States","Minnesota","MN","Minneapolis/St. Paul, MN",4488611111,-9321777778,217,"GMT-7",
+"MTJ","Montrose Regional","United States","Colorado","CO","Montrose/Delta, CO",3850055556,-10789472222,219,"GMT-8",
+"OAJ","Albert J Ellis","United States","North Carolina","NC","Jacksonville/Camp Lejeune, NC",3483027778,-7761166667,221,"GMT-6",
+"OAK","Metropolitan Oakland International","United States","California","CA","San Francisco, CA (Metropolitan Area)",3772138889,-12222083333,222,"GMT-9",
+"ONT","Ontario International","United States","California","CA","Los Angeles, CA (Metropolitan Area)",3405611111,-11760111111,227,"GMT-8",
+"ORF","Norfolk International","United States","Virginia","VA","Norfolk, VA (Metropolitan Area)",3689583333,-7620138889,229,"GMT-6",
+"OTH","North Bend Municipal","United States","Oregon","OR","North Bend/Coos Bay, OR",4341888889,-12424000000,231,"GMT-9",
+"PBI","Palm Beach International","United States","Florida","FL","West Palm Beach/Palm Beach, FL",2668222222,-8009416667,235,"GMT-6",
+"PIB","Hattiesburg-Laurel Regional","United States","Mississippi","MS","Hattiesburg/Laurel, MS",3146750000,-8933666667,241,"GMT-6",
+"PIE","St. Petersburg-Clearwater International","United States","Florida","FL","Tampa, FL (Metropolitan Area)",2790722222,-8268555556,242,"GMT-6",
+"PPG","Pago Pago International","American Samoa",,,"Pago Pago, American Samoa",-1433444444,-17070972222,247,"GMT-10",
+"PQI","Presque Isle Municipal","United States","Maine","ME","Presque Isle/Houlton, ME",4668500000,-6804750000,248,"GMT-5",
+"PSC","Tri Cities","United States","Washington","WA","Pasco/Kennewick/Richland, WA",4626388889,-11911472222,250,"GMT-8",
+"PSE","Ponce Airport","Puerto Rico",,,"Ponce, Puerto Rico",1801083333,-6656361111,251,"GMT-5",
+"PVD","Theodore Francis Green State","United States","Rhode Island","RI","Boston, MA (Metropolitan Area)",4172833333,-7142611111,255,"GMT-5",
+"RDM","Roberts Field","United States","Oregon","OR","Bend/Redmond, OR",4425444444,-12115138889,260,"GMT-9",
+"RDU","Raleigh-Durham International","United States","North Carolina","NC","Raleigh/Durham, NC",3587527778,-7878194444,261,"GMT-6",
+"RIW","Riverton Regional","United States","Wyoming","WY","Riverton/Lander, WY",4306444444,-10845694444,265,"GMT-8",
+"SBP","San Luis Obispo County Regional","United States","California","CA","Paso Robles/San Luis Obispo, CA",3523666667,-12063916667,278,"GMT-9",
+"SCC","Deadhorse Airport","United States","Alaska","AK","Deadhorse, AK",7019444444,-14846805556,279,"GMT-10",
+"SCE","State College Air Depot","United States","Pennsylvania","PA","Philipsburg/State College, PA",4077083333,-7788138889,280,"GMT-6",
+"SFO","San Francisco International","United States","California","CA","San Francisco, CA (Metropolitan Area)",3761888889,-12237500000,285,"GMT-9",
+"SGU","St George Municipal","United States","Utah","UT","St. George, UT",3709305556,-11359222222,287,"GMT-8",
+"SJC","San Jose International","United States","California","CA","San Francisco, CA (Metropolitan Area)",3736277778,-12194055556,291,"GMT-9",
+"SJU","Puerto Rico International","Puerto Rico",,,"San Juan, Puerto Rico",1844000000,-6600222222,293,"GMT-5",
+"SNA","Orange County","United States","California","CA","Los Angeles, CA (Metropolitan Area)",3367555556,-11786694444,298,"GMT-8",
+"SPN","Saipan International","Northern Mariana Islands",,,"Saipan, Northern Mariana Islands",1512027778,14573027778,300,"GMT-5",
+"SRQ","Sarasota/Bradenton Airport","United States","Florida","FL","Sarasota/Bradenton, FL",2739388889,-8255416667,302,"GMT-6",
+"STC","St. Cloud Regional","United States","Minnesota","MN","St. Cloud, MN",4554527778,-9405833333,303,"GMT-7",
+"STT","Harry S Truman","Virgin Islands",,,"Charlotte Amalie, Virgin Islands",1833722222,-6497333333,306,"GMT-5",
+"STX","Alexander Hamilton","Virgin Islands",,,"Christiansted, Virgin Islands",1770388889,-6479888889,307,"GMT-5",
+"SUN","Friedman Memorial","United States","Idaho","ID","Sun Valley/Hailey/Ketchum, ID",4350416667,-11430833333,308,"GMT-8",
+"SWF","Stewart International","United States","New York","NY","New York City, NY (Metropolitan Area)",4150583333,-7409722222,310,"GMT-5",
+"TPA","Tampa International","United States","Florida","FL","Tampa, FL (Metropolitan Area)",2797305556,-8253527778,315,"GMT-6",
+"TRI","Tri-Cities Regional TN/VA","United States","Tennessee","TN","Bristol/Johnson City/Kingsport, TN",3647611111,-8240638889,316,"GMT-6",

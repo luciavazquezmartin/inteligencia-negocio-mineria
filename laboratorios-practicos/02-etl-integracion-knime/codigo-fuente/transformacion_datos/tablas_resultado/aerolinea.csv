@@ -1,0 +1,16 @@
+"nombre_aerolinea","codigo_DOT","esta_activo","id_aerolinea"
+"Alaska Airlines Inc.","AS","esta_activo",0
+"American Airlines Inc.","AA","esta_activo",1
+"Delta Air Lines Inc.","DL","esta_activo",2
+"Envoy Air","MQ","esta_activo",3
+"Frontier Airlines Inc.","F9","esta_activo",4
+"GoJet Airlines LLC d/b/a United Express","G7","esta_activo",5
+"Hawaiian Airlines Inc.","HA","esta_activo",6
+"JetBlue Airways","B6","esta_activo",7
+"Mesa Airlines Inc.","YV","esta_activo",8
+"PSA Airlines Inc.","OH","esta_activo",9
+"Republic Airline","YX","esta_activo",10
+"SkyWest Airlines Inc.","OO","esta_activo",11
+"Southwest Airlines Co.","WN","esta_activo",12
+"Spirit Air Lines","NK","esta_activo",13
+"United Air Lines Inc.","UA","esta_activo",14

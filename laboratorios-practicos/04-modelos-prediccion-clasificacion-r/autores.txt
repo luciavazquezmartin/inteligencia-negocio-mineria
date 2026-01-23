@@ -1,0 +1,4 @@
+ NIP      Nombre   Apellidos
+----------------------------------------------
+ 871627   Irene    Pascual Albericio
+ 871886   Lucía    Vázquez Martín
